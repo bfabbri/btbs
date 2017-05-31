@@ -1,0 +1,11 @@
+.book {
+	max-height: 250px;
+}
+
+#books b {
+	font-size: 16px;
+}
+
+.modal-body img {
+	max-width: 400px;
+}
